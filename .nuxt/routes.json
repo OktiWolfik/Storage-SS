@@ -1,0 +1,14 @@
+[
+  {
+    "name": "form",
+    "path": "/form",
+    "component": "C:\\\\Users\\\\1\\\\Рабочий стол\\\\Storage\\\\pages\\\\form.vue",
+    "chunkName": "pages/form"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\1\\\\Рабочий стол\\\\Storage\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
