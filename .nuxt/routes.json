@@ -3,12 +3,21 @@
     "name": "form",
     "path": "/form",
     "component": "C:\\\\Users\\\\1\\\\Рабочий стол\\\\Storage SS\\\\Storage-SS\\\\pages\\\\form.vue",
-    "chunkName": "pages/form"
+    "chunkName": "pages/form",
+    "_name": "_ba12f600"
+  },
+  {
+    "name": "table",
+    "path": "/table",
+    "component": "C:\\\\Users\\\\1\\\\Рабочий стол\\\\Storage SS\\\\Storage-SS\\\\pages\\\\table.vue",
+    "chunkName": "pages/table",
+    "_name": "_47d4f77c"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\1\\\\Рабочий стол\\\\Storage SS\\\\Storage-SS\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_227a4f46"
   }
 ]
