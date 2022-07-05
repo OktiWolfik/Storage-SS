@@ -2,13 +2,13 @@
   {
     "name": "form",
     "path": "/form",
-    "component": "C:\\\\Users\\\\1\\\\Рабочий стол\\\\Storage\\\\pages\\\\form.vue",
+    "component": "C:\\\\Users\\\\1\\\\Рабочий стол\\\\Storage SS\\\\Storage-SS\\\\pages\\\\form.vue",
     "chunkName": "pages/form"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\1\\\\Рабочий стол\\\\Storage\\\\pages\\\\index.vue",
+    "component": "C:\\\\Users\\\\1\\\\Рабочий стол\\\\Storage SS\\\\Storage-SS\\\\pages\\\\index.vue",
     "chunkName": "pages/index"
   }
 ]
